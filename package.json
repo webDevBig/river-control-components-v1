@@ -1,7 +1,7 @@
 {
   "name": "rivercontrol-component",
   "version": "0.1.0",
-  "main": "dist/index.js",
+  "main": "GenericButton.jsx",
   "module": "dist/index.js",
   "files": [
     "dist"
