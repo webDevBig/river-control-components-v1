@@ -1,11 +1,7 @@
 {
-  "name": "rivercontrol-component",
-  "version": "0.1.0",
+  "name": "rivercontrol-component-v1",
+  "version": "0.2.0",
   "main": "GenericButton.jsx",
-  "module": "dist/index.js",
-  "files": [
-    "dist"
-  ],
   "scripts": {
     "start": "react-scripts start",
     "build-examples": "react-scripts build",

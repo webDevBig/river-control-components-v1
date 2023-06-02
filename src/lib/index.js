@@ -1,3 +1,3 @@
 
-import GenericButton from "./GenericButton/GenericButton";
+import GenericButton from "./GenericButton";
 export { GenericButton };
