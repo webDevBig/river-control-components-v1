@@ -1,0 +1,16 @@
+.btn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s;
+  cursor: pointer;
+  color: var(--font-color);
+}
+.btn i {
+  width: 24px;
+  height: 24px;
+  background-color: var(--icon-color);
+  -webkit-mask-size: 100%;
+  mask-size: 100%;
+}/*# sourceMappingURL=generic-button-style.css.map */
