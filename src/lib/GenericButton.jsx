@@ -1,4 +1,3 @@
-import "./generic-button-style.css";
 import React from "react";
 
 
